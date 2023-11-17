@@ -28,9 +28,8 @@ I believe in lifelong learning and I'm always excited to learn more about new te
 
 ## 🌍 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) and [Twitter](https://twitter.com/your-twitter-handle). 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaideloje/) and [Twitter](https://twitter.com/_devjosh). 
 
 Thanks for stopping by! 😊
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoshIri360)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
