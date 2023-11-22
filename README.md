@@ -4,7 +4,7 @@ I'm a passionate React and React-Native Developer with 3 years of experience in 
 
 ## 👨‍💻 About Me 
 
-Apart from being a tech enthusiast, I am a food lover. My favourite dish is Nkwobi, a popular delicacy in the Eastern part of Nigeria. It's a spicy cow foot dish that's simply irresistible! 
+Apart from being a tech enthusiast, I am passionate about self-development. I thrive on exploring new technologies and enhancing my skills continuously. My journey involves constant learning and staying updated with the latest developments in the tech world.
 
 ## 🚀 Skills 
 
